@@ -1,36 +1,75 @@
-# 👋 Hello, I'm **Rohan Khengyung Rai**!
+#  Hello, I'm **Rohan Khengyung Rai**!
 
----
 
-## 🌟 About Me
-- 👀 **Interests:** Web development & exploring new technologies.
-- 💞️ **Collaboration:** I'm eager to work on innovative web development projects and contribute to open-source initiatives.
 
----
+## About Me
+I am a passionate developer with a strong interest in both web development, seeking to leverage my skills in creating innovative digital experiences.
 
-## 📫 Get in Touch
-- **Email:** [rairohan98015@gmail.com](mailto:rairohan98015@gmail.com)  
-- **LinkedIn:** [Rohan Rai](https://www.linkedin.com/in/rohan-rai-096a182b2/)  
+## Tech Stack
 
----
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
+      <br /><b>HTML5</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
+      <br /><b>CSS3</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+      <br /><b>JavaScript</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+      <br /><b>Python</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" />
+      <br /><b>Django</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50" />
+      <br /><b>C</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
+      <br /><b>C++</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" />
+      <br /><b>React</b>
+    </td>
+     <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+      <br /><b>Git</b>
+    </td>
+  </tr>
+</table>
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohan-Khengyung&show_icons=true&theme=radical)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Khengyung&layout=compact&theme=radical)  
 
----
 
-## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Django  
-- **Tools:** Git, VS Code  
 
----
 
-## 📩 Let's Connect!
-Feel free to reach out for collaborations or just to say hi. Thanks for stopping by! 😊
 
----
+## GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Rohan-Khengyung&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Khengyung&layout=compact&theme=radical" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>  
+
+
+
+
 
 <!---  
 Rohan-Khengyung/Rohan-Khengyung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
