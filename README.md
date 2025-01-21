@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Rohan Khengyun Rai**!
+# 👋 Hello, I'm **Rohan Khengyung Rai**!
 
 ---
 
