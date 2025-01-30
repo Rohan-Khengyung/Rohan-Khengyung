@@ -3,7 +3,7 @@
 
 
 
-I am a passionate developer with a strong interest in both web development and game development, seeking to leverage my skills in creating innovative digital experiences.
+I am a developer with a strong interest in both web development and game development, seeking to leverage my skills in creating innovative digital experiences.
 
 ## Tech Stack
 
