@@ -18,10 +18,6 @@ I am a developer with a strong interest in both web development and game develop
       <br /><b>CSS3</b>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-      <br /><b>JavaScript</b>
-    </td>
-    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
       <br /><b>Python</b>
     </td>
