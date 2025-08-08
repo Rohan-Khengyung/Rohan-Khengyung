@@ -3,8 +3,7 @@
 
 
 
-I am a rookie developer with a strong interest in both web development and AI, seeking to leverage my skills in creating innovative digital experiences.
-
+Rookie developer 
 ## Tech Stack
 
 <table>
