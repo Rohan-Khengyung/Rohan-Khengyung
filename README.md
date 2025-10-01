@@ -1,10 +1,16 @@
 <div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:00f2fe,100:0052d4&height=220&section=header&text=ａｓｃｅｎｄ&fontSize=52&fontAlignY=40&animation=twinkling&fontColor=ffffff&stroke=ffffff&strokeWidth=3" />
+</div>
+
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Rohan+Khengyung+Rai;Open+Source+Enthusiast;" />
 </div>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Rohan-Khengyung&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 
 ## About Me
 
