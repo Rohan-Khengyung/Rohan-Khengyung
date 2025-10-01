@@ -1,71 +1,81 @@
-#  Hello, I'm **Rohan Khengyung Rai**!
 
 
 
-Rookie developer 
-## Tech Stack
+
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Rohan+Khengyung+Rai;Open+Source+Enthusiast;" />
+</div>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Rohan-Khengyung&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+## About Me
+
++ Working on Personal Projects
++ Reach me rohan-khenyung-rai90@outlook.com 
++ Learning Unity
+
+## My Contact
+
+<p align="left">
+  <a href="https://github.com/Rohan-Khengyung">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rohan-rai-096a182b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/rohan43">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/rohan_khengyung/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:rohan-khenyung-rai90@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+</p>
+
+
+
+## Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+## GitHub Trophies
+<div align="left">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rohan-Khengyung&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
+
+## GitHub Stats
 
 <table>
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
-      <br /><b>HTML5</b>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Rohan-Khengyung&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
-      <br /><b>CSS3</b>
-    </td>
-     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-      <br /><b>JavaScript</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-      <br /><b>Python</b>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Khengyung&layout=compact&hide_border=true&theme=radical" alt="Most Used Languages" />
     </td>
   </tr>
   <tr>
-   <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" />
-      <br /><b>Django</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" />
-      <br /><b>React</b>
-    </td>
-      <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
-      <br /><b>GitHub</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />
-      <br /><b>C#</b>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan-Khengyung&hide_border=true&theme=radical" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 
 
-
-
-
-## GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Rohan-Khengyung&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Khengyung&layout=compact&theme=radical" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>  
-
-
-
-
-
-<!---  
-Rohan-Khengyung/Rohan-Khengyung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
-You can click the Preview link to take a look at your changes.  
---->
