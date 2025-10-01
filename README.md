@@ -8,7 +8,7 @@
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Rohan-Khengyung&label=Porfile%20Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Rohan-Khengyung&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 
