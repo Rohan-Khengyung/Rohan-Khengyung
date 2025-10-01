@@ -12,13 +12,13 @@
 </p>
 
 
-## About Me
+## Little About Me
 
 + Working on Personal Projects
 + Reach me rohan-khenyung-rai90@outlook.com 
 + Learning Unity
 
-## My Contact
+## Where To Find Me 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rohan-rai-096a182b2/" target="_blank">
@@ -37,7 +37,7 @@
 
 
 
-## Languages & Tools
+## Languages & Tools I Rely On
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
