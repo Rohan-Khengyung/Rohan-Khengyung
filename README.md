@@ -49,12 +49,6 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## GitHub Trophies
-<div align="left">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rohan-Khengyung&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
 
 ## GitHub Stats
 
