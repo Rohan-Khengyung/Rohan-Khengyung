@@ -12,13 +12,13 @@
 </p>
 
 
-## Little About Me
+
 
 + Working on Personal Projects
 + Reach me rohan-khenyung-rai90@outlook.com 
 + Learning Unity and Blender
 
-## Where To Find Me 
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rohan-rai-096a182b2/" target="_blank">
@@ -33,8 +33,7 @@
 </p>
 
 
-
-## Languages & Tools I Rely On
+## Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -46,24 +45,10 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:00f2fe,100:0052d4&height=180&section=footer&animation=fadeIn&fontColor=ffffff&stroke=00f2fe&strokeWidth=2&rotate=0" />
+</div>>
 
-## GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Rohan-Khengyung&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Khengyung&layout=compact&hide_border=true&theme=radical" alt="Most Used Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan-Khengyung&hide_border=true&theme=radical" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
 
 
 
