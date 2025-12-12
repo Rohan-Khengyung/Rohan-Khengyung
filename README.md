@@ -15,8 +15,7 @@
 
 + Working on personal projects
 + Reach me rohan-khenyung-rai90@outlook.com 
-+ Learning Unity and Blender
-+ Check out my live portflio: https://rohan-khengyung.netlify.app
++ Learning Unity and Blender (Hobby)
 
 ## Connect With Me
 
