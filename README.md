@@ -15,7 +15,7 @@
 
 + Working on personal projects
 + Reach me rohan-khenyung-rai90@outlook.com 
-+ Learning Unity and Blender (Hobby)
++ Learning 
 
 ## Connect With Me
 
